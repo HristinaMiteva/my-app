@@ -13,7 +13,7 @@ export default function Home() {
         <div className="column-half">
           <h2 className="section-title">Introduction</h2>
           <p>
-            You can buy tickets to every concert show this year, for every artist you'd like.
+            You can buy tickets to every concert show this year, for every artist you&apos;d like.
             For every day of the year, we work even on weekends! 
             You can call us on **********
           </p>
@@ -58,7 +58,7 @@ export default function Home() {
             <img className="avatar" src="https://i.pinimg.com/736x/7e/0a/d0/7e0ad011f031c33a534daca3446c8b79.jpg" alt="avatar" />
             <h3 className="card-name">Lena</h3>
             <p>
-             I'm so happy with the website and the help I received from the workers.
+             I&apos;m so happy with the website and the help I received from the workers.
             </p>
           </div>
           <div className="card">
